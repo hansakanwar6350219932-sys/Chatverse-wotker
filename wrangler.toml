@@ -1,0 +1,6 @@
+name = "chatverse-api"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+PROJECT_ID = "chatverse"
